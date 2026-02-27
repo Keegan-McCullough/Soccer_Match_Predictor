@@ -1,0 +1,12 @@
+#data
+kagglehub
+
+#notebook
+ipykernel
+
+#analysis
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
