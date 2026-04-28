@@ -10,6 +10,3 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-
-#models
-xgboost
